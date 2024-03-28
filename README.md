@@ -1,7 +1,9 @@
 # Expense Tracker
 
 This is a simple Expense Tracker application that allows users to manage their expenses. It includes basic functionalities like adding, updating, and deleting expenses.
-
+## Models
+- **User**
+- **Categories**
 ## Features
 
 - **Add Expense:** Users can add new expenses by providing details such as the expense name, amount, date, and category.
