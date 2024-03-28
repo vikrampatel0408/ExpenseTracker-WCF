@@ -1,0 +1,17 @@
+C:\Users\user1\source\repos\expService\expHost\obj\Debug\expHost.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\expService\expHost\obj\Debug\expHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\source\repos\expService\expHost\obj\Debug\expHost.Form1.resources
+C:\Users\user1\source\repos\expService\expHost\obj\Debug\expHost.Properties.Resources.resources
+C:\Users\user1\source\repos\expService\expHost\obj\Debug\expHost.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\expService\expHost\obj\Debug\expHost.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\expService\expHost\bin\Debug\expHost.exe.config
+C:\Users\user1\source\repos\expService\expHost\bin\Debug\expHost.exe
+C:\Users\user1\source\repos\expService\expHost\bin\Debug\expHost.pdb
+C:\Users\user1\source\repos\expService\expHost\bin\Debug\expService.dll
+C:\Users\user1\source\repos\expService\expHost\bin\Debug\EntityFramework.dll
+C:\Users\user1\source\repos\expService\expHost\bin\Debug\expService.pdb
+C:\Users\user1\source\repos\expService\expHost\bin\Debug\expService.dll.config
+C:\Users\user1\source\repos\expService\expHost\bin\Debug\EntityFramework.xml
+C:\Users\user1\source\repos\expService\expHost\obj\Debug\expHost.csproj.CopyComplete
+C:\Users\user1\source\repos\expService\expHost\obj\Debug\expHost.exe
+C:\Users\user1\source\repos\expService\expHost\obj\Debug\expHost.pdb
